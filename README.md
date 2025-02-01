@@ -1,13 +1,13 @@
 
 
-# Привет, меня зовут Никита! 👋
+# Hi, i'm Nikita! 👋
 
-Я разработчик на Python, люблю делать разные интересные штуки для упрощения своей жизни. Мне интересна разработка с точки зрения решения бизнес-задач, так она позволяет лучше понимать проблему и устройство бизнес-процессов. Помимо работы люблю путешествовать, играть на музыкальных инструментах,слушать музыку пластинках и посещать разные конференции и фестивали.
+I am a Python developer, I like to do various interesting things to simplify my life. I am interested in development from the point of view of solving business problems, as it allows me to better understand the problem and the structure of business processes. In addition to work, I like to travel, play musical instruments, listen to records, and attend various conferences and festivals.
 
 [![Твой GitHub статистика](https://github-readme-stats.vercel.app/api?username=LLIALLIJLblK&show_icons=true&theme=radical)](https://github.com/LLIALLIJLblK)
 
 [![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=LLIALLIJLblK&layout=compact&theme=radical)](https://github.com/LLIALLIJLblK)
-## 🛠️ Мой стек технологий
+## 🛠️ My stack
 
 ### Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
